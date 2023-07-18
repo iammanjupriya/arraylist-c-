@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: array list, Configuration: Debug Any CPU ------
+1>  array list -> C:\Users\Manoj Kumar\source\repos\array list\bin\Debug\array list.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:43 PM and took 00.384 seconds ==========
